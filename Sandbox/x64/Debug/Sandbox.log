@@ -1,0 +1,3 @@
+﻿  Application.cpp
+L:\Project\Zeler Engine\Zeler_Engine\Sandbox\scr\Application.cpp(6,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Sandbox.vcxproj -> L:\Project\Zeler Engine\Zeler_Engine\x64\Debug\Sandbox.exe
