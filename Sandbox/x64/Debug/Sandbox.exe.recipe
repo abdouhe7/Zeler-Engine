@@ -2,10 +2,10 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>L:\Project\Zeler Engine\Zeler_Engine\bin\Debug-x64\Zeler\Zeler.dll</FullPath>
+      <FullPath>L:\Project\Developer Projects\Zeler Engine\Zeler_Engine\bin\Debug-x64\Zeler\Zeler.dll</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>L:\Project\Zeler Engine\Zeler_Engine\x64\Debug\Sandbox.exe</FullPath>
+      <FullPath>L:\Project\Developer Projects\Zeler Engine\Zeler_Engine\x64\Debug\Sandbox.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
